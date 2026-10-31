@@ -1,2 +1,3 @@
 # First-Demo
-This is first Git Repository
+This is first Git Repository by - pratiksha 
+
